@@ -1,0 +1,17 @@
+,features,mode_fr,mode_pr,two_mode_fr,two_mode_pr,pr,instances
+0,id,string,string,string,string,string,string
+1,age,17,38.56076276664512,37.0,90,13.639403068811818,30940
+2,workclass,string,string,string,string,string,string
+3,fnlwgt,12285,189786.4014221073,178384.0,1484705,105406.39438610482,30940
+4,education,string,string,string,string,string,string
+5,education-num,1,10.08125404007757,10.0,16,2.5699668370230184,30940
+6,marital-status,string,string,string,string,string,string
+7,occupation,string,string,string,string,string,string
+8,relationship,string,string,string,string,string,string
+9,race,string,string,string,string,string,string
+10,sex,string,string,string,string,string,string
+11,capital-gain,0,1081.8129928894634,0.0,99999,7443.773041287165,30940
+12,capital-loss,0,86.56997414350356,0.0,4356,401.7060231857947,30940
+13,hours-per-week,1,40.408920491273435,40.0,99,12.336944975043277,30940
+14,native-country,string,string,string,string,string,string
+15,target,string,string,string,string,string,string
